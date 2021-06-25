@@ -1,2 +1,2 @@
 # Cpp-Project-Data-structures---Struct1
-Data container: ADT Collection - representation using a dynamic vector with the ordered elements in relation to the order relation: Relation (&lt;=); and a dynamic vector as a data structure.
+Container de date: TAD Colecție cu elemente de tip comparabil (TElement=TComparabil) – reprezentare folosind un vector dinamic cu elementele ordonate în raport cu relația de ordine R=(<=) și un vector dinamic ca structură de date.

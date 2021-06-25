@@ -1,2 +1,2 @@
 # Cpp-Project-Data-structures---Struct1
-Data container: ADT Collection - representation using a dynamic vector with the ordered elements in relation to the order relation: Relation (&lt;=); and a dynamic array as a data structure.
+Data container: ADT Collection - representation using a dynamic vector with the ordered elements in relation to the order relation: Relation (&lt;=); and a dynamic vector as a data structure.
